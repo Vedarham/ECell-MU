@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ECell-MU/static/css/main.8f3c2de0.css",
-    "main.js": "/ECell-MU/static/js/main.34684710.js",
+    "main.css": "/ECell-MU/static/css/main.9756f7b6.css",
+    "main.js": "/ECell-MU/static/js/main.c0e5d7b5.js",
     "static/js/453.3135ea65.chunk.js": "/ECell-MU/static/js/453.3135ea65.chunk.js",
     "static/media/event-bg.mp4": "/ECell-MU/static/media/event-bg.1bf2d5fd72f10be8e042.mp4",
     "static/media/BG3.jpg": "/ECell-MU/static/media/BG3.5ea5c414399d263b2f3c.jpg",
@@ -67,12 +67,12 @@
     "static/media/inspire-logo.svg": "/ECell-MU/static/media/inspire-logo.eac344f63b3030609740b2587c1ac18f.svg",
     "static/media/impact-logo.svg": "/ECell-MU/static/media/impact-logo.7e01a74c88762a8436641197d70c8406.svg",
     "index.html": "/ECell-MU/index.html",
-    "main.8f3c2de0.css.map": "/ECell-MU/static/css/main.8f3c2de0.css.map",
-    "main.34684710.js.map": "/ECell-MU/static/js/main.34684710.js.map",
+    "main.9756f7b6.css.map": "/ECell-MU/static/css/main.9756f7b6.css.map",
+    "main.c0e5d7b5.js.map": "/ECell-MU/static/js/main.c0e5d7b5.js.map",
     "453.3135ea65.chunk.js.map": "/ECell-MU/static/js/453.3135ea65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f3c2de0.css",
-    "static/js/main.34684710.js"
+    "static/css/main.9756f7b6.css",
+    "static/js/main.c0e5d7b5.js"
   ]
 }
